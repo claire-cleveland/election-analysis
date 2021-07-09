@@ -14,7 +14,7 @@ A Colorado Board of Elections amployee needs the following tasks done to audit a
 - Data Source: election_results.csv
 - Software: Python 3.8.8 and Visual Studio Code 1.57.1
 
-## Summary 
+# Election Audit Results 
 The analysis of the election shows that: 
 
 - There were 369,711 total votes. 
@@ -31,6 +31,14 @@ The analysis of the election shows that:
 
 #### The winner was: Diana DeGette with 73.8% of the vote and 272,892 votes. 
 
-# Challenge Overview 
+- The counties were: 
+  - Jefferson
+  - Denver 
+  - Arapahoe 
 
-# Challenge Summary 
+- The county results were: 
+  - Jefferson County with 10.51% of the votes and 38,855 number of votes. 
+  - Denver County with 82.78% of the vote and 306,055 number of votes. 
+  - Arapahoe County with 6.71% of the votes and 24,801 number of votes. 
+
+##### The county with the largest number of votes was Denver with 82.78% and 306,055 votes. 
